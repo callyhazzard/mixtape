@@ -3,7 +3,7 @@ html{
 }
 body{
   font-family: arial; sans-serif;
-  background-color: #A5B0DF;
+  background-color: #a5b0df;
 }
 ol{
   line-height:1.5em;
@@ -13,7 +13,8 @@ li{border-bottom: 1px solid black;
 }
 h1{
   font-family: georgia, serif;
-  color: #455EED; 
+  font-height: 2em;
+  color: #455eed;
 }
 a{
   color: deeppink;
@@ -25,10 +26,10 @@ a:hover{
 .wrapper{
   400px;
   margin: auto;
-  color: #F7B7E7;
+  color: #f7b7e7;
 }
 img{
-  max-width: 75%;
+  max-width: 100%;
   display: block;
   align-content: center;
   padding: 10px;
