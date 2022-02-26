@@ -12,6 +12,7 @@ li{border-bottom: 1px solid white;
   padding-bottom:5px;
 }
 h1{
+  align: center;
   font-family: georgia, serif;
   font-height: 2em;
   color: #455eed;
@@ -26,7 +27,7 @@ a:hover{
 .wrapper{
   400px;
   margin: auto;
-  color: #94407c;
+  color: #70d2db;
 }
 img{
   max-width: 100%;
