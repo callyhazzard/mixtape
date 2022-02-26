@@ -2,7 +2,8 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  font-family:arial, sans-serif;
+  font-family: arial; sans-serif;
+  background-color: #A5B0DF;
 }
 ol{
   line-height:1.5em;
@@ -11,17 +12,25 @@ li{border-bottom: 1px solid black;
   padding-bottom:5px;
 }
 h1{
-  font-family:georgia, serif;
+  font-family: georgia, serif;
+  color: #455EED; 
 }
 a{
-  color: red;
+  color: deeppink;
   text-decoration: none;
 }
 a:hover{
   color:#f00;
 }
 .wrapper{
-  width:600px;
+  400px;
   margin: auto;
-
+  color: #F7B7E7;
 }
+img{
+  max-width: 75%;
+  display: block;
+  align-content: center;
+  padding: 10px;
+}
+h2{}
