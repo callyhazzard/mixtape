@@ -2,39 +2,26 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  font-family: arial; sans-serif;
-  background-color: #a5b0df;
+  font-family:arial, sans-serif;
 }
 ol{
   line-height:1.5em;
 }
-li{border-bottom: 1px solid white;
+li{border-bottom: 1px solid black;
   padding-bottom:5px;
 }
 h1{
-  align: center;
-  font-family: georgia, serif;
-  font-height: 2em;
-  color: #455eed;
+  font-family:georgia, serif;
 }
 a{
-  color: deeppink;
+  color: red;
   text-decoration: none;
 }
 a:hover{
   color:#f00;
 }
 .wrapper{
-  400px;
+  width:600px;
   margin: auto;
-  color: #70d2db;
-}
-img{
-  max-width: 100%;
-  display: block;
-  align-content: center;
-  padding: 10px;
-}
-h2{
-  color: blue;
+
 }
