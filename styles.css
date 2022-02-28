@@ -4,9 +4,9 @@ html{
 body{
   font-family:arial, sans-serif;
   text-align: center;
-  font-family: "gothic", sans-serif;
-  color: #e4e895;
-  background-color: #6067b7;
+  font-family: "helvetica", sans-serif;
+  color: #6067b7;
+  background-color: #c1d9fc;
 }
 ol{
   line-height:1.5em;
@@ -29,14 +29,14 @@ a:hover{
   margin-left: auto;
   margin-right: auto;
   display: block;
-  background-color: #a3e3fb;
+  background-color: #c1d9fc;
 
 }
 .albumcovers{
   display: block;
   align: center;
-  width: 500px;
-  height: 500px;
+  width: 450px;
+  height: 450px;
   max-width: 100%;
   padding: 10px;
   margin-left: auto;
