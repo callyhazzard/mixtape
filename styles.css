@@ -3,6 +3,7 @@ html{
 }
 body{
   font-family:arial, sans-serif;
+  color: lavender;
 }
 ol{
   line-height:1.5em;
@@ -14,14 +15,15 @@ h1{
   font-family:georgia, serif;
 }
 a{
-  color: red;
+  color: deeppink;
   text-decoration: none;
 }
 a:hover{
-  color:#f00;
+  color: blue;
 }
 .wrapper{
-  width:600px;
+  width:700px;
   margin: auto;
+  color: skyblue;
 
 }
