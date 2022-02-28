@@ -17,6 +17,9 @@ li{border-bottom: 1px solid deeppink;
 h1{
   font-family: "courier-new", serif;
 }
+hr{
+  color: darkblue;
+}
 a{
   color: deeppink;
   text-decoration: none;
