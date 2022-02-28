@@ -4,18 +4,18 @@ html{
 body{
   font-family:arial, sans-serif;
   text-align: center;
-  font-family: "helvetica", sans-serif;
+  font-family: "comfortaa", sans-serif;
   color: #6067b7;
   background-color: #c1d9fc;
 }
 ol{
   line-height:1.5em;
 }
-li{border-bottom: 1px solid black;
+li{border-bottom: 1px solid deeppink;
   padding-bottom:5px;
 }
 h1{
-  font-family:georgia, serif;
+  font-family: "courier-new", serif;
 }
 a{
   color: deeppink;
