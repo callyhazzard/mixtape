@@ -11,14 +11,17 @@ body{
 ol{
   line-height:1.5em;
 }
-li{border-bottom: 1px solid deeppink;
+li{
   padding-bottom:5px;
 }
 h1{
   font-family: "courier-new", serif;
 }
+h2{
+  font-family: "courier-new", serif;
+}
 hr{
-  color: darkblue;
+  rule-color: deeppink;
 }
 a{
   color: deeppink;
