@@ -2,7 +2,7 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  font-family:arial, sans-serif;
+  font-family: "comfortaa", sans-serif;
   text-align: center;
   font-family: "comfortaa", sans-serif;
   color: #6067b7;
@@ -15,10 +15,10 @@ li{
   padding-bottom:5px;
 }
 h1{
-  font-family: "courier-new", serif;
+  font-family: "courier-new", monospace;
 }
 h2{
-  font-family: "courier-new", serif;
+  font-family: "courier-new", monospace;
 }
 hr{
   rule-color: deeppink;
@@ -45,6 +45,17 @@ a:hover{
   height: 450px;
   max-width: 100%;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.topphoto{
+  display: block;
+  align; center;
+  width: 500px;
+  height: 500px;
+  max-width: 100%;
+  padding: 15px;
+  border: 5px, color: solid-blue;
   margin-left: auto;
   margin-right: auto;
 }
