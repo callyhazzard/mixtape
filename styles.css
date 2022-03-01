@@ -8,8 +8,13 @@ body{
   color: #6067b7;
   background-color: #c1d9fc;
 }
+img{
+  width:100%;
+
+}
 ol{
   line-height:1.5em;
+  padding:0;
 }
 li{
   padding-bottom:5px;
@@ -53,7 +58,6 @@ a:hover{
   width: 100%;
   height: auto;
   max-width: 100%;
-  padding: 15px;
   margin-left: auto;
   margin-right: auto;
 }
