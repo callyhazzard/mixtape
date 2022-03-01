@@ -59,3 +59,16 @@ a:hover{
   margin-left: auto;
   margin-right: auto;
 }
+
+
+@media only screen and (min-width:700px){
+  /* Styles for desktop go here */
+  .wrapper{
+    width:70%
+
+  }
+  .albumcovers{
+    width:60%
+  }
+  /* Take Note: the media query has its own set of curly braces! */
+}
