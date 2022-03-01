@@ -2,9 +2,9 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  font-family: "comfortaa", sans-serif;
+  font-family: "arial", sans-serif;
   text-align: center;
-  font-family: "comfortaa", sans-serif;
+  font-family: "arial", sans-serif;
   color: #6067b7;
   background-color: #c1d9fc;
 }
@@ -31,7 +31,7 @@ a:hover{
   color: blue;
 }
 .wrapper{
-  width: 80%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -42,7 +42,7 @@ a:hover{
   display: block;
   align: center;
   width: 450px;
-  height: 450px;
+  height: aut;
   max-width: 100%;
   padding: 10px;
   margin-left: auto;
@@ -51,8 +51,8 @@ a:hover{
 .topphoto{
   display: block;
   align; center;
-  width: 500px;
-  height: 500px;
+  width: 100%;
+  height: auto;
   max-width: 100%;
   padding: 15px;
   border: 5px, color: solid-blue;
@@ -64,11 +64,11 @@ a:hover{
 @media only screen and (min-width:700px){
   /* Styles for desktop go here */
   .wrapper{
-    width:70%
+    width:35%
 
   }
   .albumcovers{
-    width:60%
+    width:55%
   }
   /* Take Note: the media query has its own set of curly braces! */
 }
